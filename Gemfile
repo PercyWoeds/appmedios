@@ -16,7 +16,7 @@ gem 'will_paginate'
 gem "prawn"
 gem 'prawnto'
 gem 'prawn-table'
-gem 'devise', '~> 4.1', '>= 4.1.1'
+gem 'devise', '~> 4.7'
 gem 'thin'
 gem 'pivot_table'
 
